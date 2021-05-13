@@ -26,8 +26,8 @@
   <a href="https://www.notion.so/419b1896ac1f46c28e7b2f78a33e3d9b">
     <img src="https://img.shields.io/badge/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/419b1896ac1f46c28e7b2f78a33e3d9b"/>
   </a>
-  <a href="https://github.com/swhan9404">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/swhan9404"/>
+  <a href="mailto:swhan9404@khu.ac.kr">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=swhan9404@khu.ac.kr"/>
   </a>
 
 </p>
