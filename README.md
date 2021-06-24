@@ -41,7 +41,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=swhan9404)](https://solved.ac/swhan9404)
 -->
 <p align="center">
-  <a href="https://github.com/swhan9404/">
+  <a href="https://github.com/devxb/CommitCombo/">
     <img src="http://commitcombo.com/get?user=swhan9404&theme=DeepOcean-mini"/>
   </a>
 </p>
