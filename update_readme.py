@@ -62,7 +62,7 @@ markdown_text = """[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg
 </p>
 
 
-<h2><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@swhan9404/series"/>My Latest Blog Post</h2> 
+<h2>🏠My Latest Blog Post</h2>
 """
 
 readme_text = f"{markdown_text}{latest_blog_post_list}"
