@@ -33,5 +33,5 @@ jobs:
         git diff
         git config --local user.email "swhan9404@naver.com"
         git config --local user.name "swhan9404"
-        git commit -m "Update README.md"
+        git commit -m "Update : $(expr $(date '+%Y-%m-%d')) README.md"
         git push
